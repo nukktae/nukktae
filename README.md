@@ -34,7 +34,7 @@
 ### 📌 Featured Projects
 <div align="center">
   <a href="https://github.com/MakeEat/frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakeEat&repo=backend&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakeEat&repo=frontend&theme=radical" />
   </a>
   <a href="https://github.com/nukktae/rootin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=rootin&theme=radical" />
@@ -48,8 +48,9 @@
 
 #### MakeEat
 - 🍳 Smart recipe generation system using AI technology
-- 📷 Receipt image analysis for ingredient tracking
-- 🔧 Built with JavaScript (Backend)
+- 📷 React Native mobile application
+- 🎨 Modern UI/UX design with responsive layouts
+- 📷 Receipt image scanning and ingredient management
 - 🤖 AI-powered personalized recipe recommendations
 - 🌐 Part of KMU Global PBL 2024's LLM Project
 
