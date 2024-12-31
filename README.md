@@ -5,20 +5,20 @@
 </div>
 
 ### 👨‍💻 About Me
-- 🌱 I'm currently working with Flutter, TypeScript, JavaScript, and AI technologies
+- 🌱 I'm currently working with Flutter, TypeScript, and AI technologies
 - 🔭 Current Projects:
-  - 🌿 Rootin - A plant care app with AI identification
+  - 🍳 MakeEat - AI-powered Flutter recipe generator
+  - 🌿 Rootin - Plant care app with AI identification
   - 🎯 MajorMatch - TypeScript-based application
-  - 🍳 MakeEat - Smart AI-powered recipe generation system
-- 💬 Ask me about Flutter, Dart, TypeScript, AI integration, and Full-stack Development
-- 🚀 Full-stack developer passionate about mobile, web, and AI solutions
+- 💬 Ask me about Flutter, Dart, TypeScript, and AI integration
+- 🚀 Full-stack developer passionate about mobile and web development
 
 ### 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-Machine_Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -47,11 +47,11 @@
 ### 🌟 Project Highlights
 
 #### MakeEat
-- 🍳 Smart recipe generation system using AI technology
-- 📷 React Native mobile application
-- 🎨 Modern UI/UX design with responsive layouts
-- 📷 Receipt image scanning and ingredient management
-- 🤖 AI-powered personalized recipe recommendations
+- 🍳 AI-powered recipe generation system using OpenAI GPT
+- 📱 Built with Flutter 3.0+ and Dart (84.3%)
+- 🔥 Firebase integration for real-time updates
+- 📸 Receipt scanner with OCR technology
+- 🎨 Custom-designed gradient interfaces
 - 🌐 Part of KMU Global PBL 2024's LLM Project
 
 #### Rootin
