@@ -1,20 +1,22 @@
 <div align="center">
   <h1>Hi there, I'm nukktae 👋</h1>
   
-  <!-- Add a banner image or animated gif here -->
-  ![Header](https://your-banner-image-url.png)
+  <!-- We can add a custom banner later -->
 </div>
 
 ### 👨‍💻 About Me
-- 🌱 I'm currently learning [Your interests/technologies]
-- 🔭 I'm working on [Current projects]
-- 💬 Ask me about [Your expertise areas]
-- 📫 How to reach me: [Your contact info]
+- 🌱 I'm currently working with Flutter, TypeScript, and AI technologies
+- 🔭 Current Projects:
+  - 🌿 Rootin - A plant care app with AI identification
+  - 🎯 MajorMatch - TypeScript-based application
+- 💬 Ask me about Flutter, Dart, TypeScript, and AI integration
+- 🚀 Full-stack developer passionate about mobile and web development
 
 ### 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-<!-- Add more technology badges as needed -->
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-Machine_Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -29,8 +31,22 @@
 
 ### 📌 Featured Projects
 <div align="center">
-  <a href="https://github.com/nukktae/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=project1&theme=radical" />
+  <a href="https://github.com/nukktae/rootin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=rootin&theme=radical" />
   </a>
-  <!-- Add more featured projects as needed -->
-</div> 
+  <a href="https://github.com/nukktae/MajorMatch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=MajorMatch&theme=radical" />
+  </a>
+</div>
+
+### 🌟 Project Highlights
+
+#### Rootin
+- 🌿 Plant care application with AI integration
+- 📱 Built with Flutter/Dart (91.2%)
+- 🤖 Features AI-powered plant identification
+- 📋 Includes plant care guides and tracking
+
+#### MajorMatch
+- 💻 TypeScript-based application (98.2%)
+- 🔄 Full-stack development
