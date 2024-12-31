@@ -34,13 +34,13 @@
 ### 📌 Featured Projects
 <div align="center">
   <a href="https://github.com/MakeEat/frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakeEat&repo=frontend&theme=radical&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakeEat&repo=frontend&theme=radical&show_owner=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/nukktae/rootin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=rootin&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=rootin&theme=radical&cache_seconds=1800" />
   </a>
   <a href="https://github.com/nukktae/MajorMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=MajorMatch&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=MajorMatch&theme=radical&cache_seconds=1800" />
   </a>
 </div>
 
