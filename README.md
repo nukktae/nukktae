@@ -33,7 +33,7 @@
 
 ### 📌 Featured Projects
 <div align="center">
-  <a href="https://github.com/MakeEat/backend">
+  <a href="https://github.com/MakeEat/frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakeEat&repo=backend&theme=radical" />
   </a>
   <a href="https://github.com/nukktae/rootin">
