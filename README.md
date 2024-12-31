@@ -5,14 +5,16 @@
 </div>
 
 ### 👨‍💻 About Me
-- 🌱 I'm currently working with Flutter, TypeScript, and AI technologies
+- 🌱 I'm currently working with Flutter, TypeScript, JavaScript, and AI technologies
 - 🔭 Current Projects:
   - 🌿 Rootin - A plant care app with AI identification
   - 🎯 MajorMatch - TypeScript-based application
-- 💬 Ask me about Flutter, Dart, TypeScript, and AI integration
-- 🚀 Full-stack developer passionate about mobile and web development
+  - 🍳 MakeEat - Smart AI-powered recipe generation system
+- 💬 Ask me about Flutter, Dart, TypeScript, AI integration, and Full-stack Development
+- 🚀 Full-stack developer passionate about mobile, web, and AI solutions
 
 ### 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -31,6 +33,9 @@
 
 ### 📌 Featured Projects
 <div align="center">
+  <a href="https://github.com/MakeEat/backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakeEat&repo=backend&theme=radical" />
+  </a>
   <a href="https://github.com/nukktae/rootin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=rootin&theme=radical" />
   </a>
@@ -41,6 +46,13 @@
 
 ### 🌟 Project Highlights
 
+#### MakeEat
+- 🍳 Smart recipe generation system using AI technology
+- 📷 Receipt image analysis for ingredient tracking
+- 🔧 Built with JavaScript (Backend)
+- 🤖 AI-powered personalized recipe recommendations
+- 🌐 Part of KMU Global PBL 2024's LLM Project
+
 #### Rootin
 - 🌿 Plant care application with AI integration
 - 📱 Built with Flutter/Dart (91.2%)
@@ -49,4 +61,4 @@
 
 #### MajorMatch
 - 💻 TypeScript-based application (98.2%)
-- 🔄 Full-stack development
+- 🔄 Full-stack development 
