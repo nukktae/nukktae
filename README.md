@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Anu 👋</h1>
+  <h1>Hi there, I'm nukktae 👋</h1>
   
   <!-- We can add a custom banner later -->
 </div>
