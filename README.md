@@ -19,7 +19,8 @@
   <h3>🎯 Based in Irvine, CA | Building the Future with Code</h3>
 </div>
 
-### 🚀 Tech Arsenal
+<details open>
+<summary>🚀 About Me</summary>
 
 ```javascript
 const anu = {
@@ -30,23 +31,15 @@ const anu = {
     iot: ["Sensors", "Real-time Monitoring"],
     currentlyExploring: "AI/ML Integration in Mobile Apps"
 };
+```
+</details>
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-</p>
-
-### 📊 GitHub Stats
+### 💻 Tech Stack
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nukktae&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nukktae&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,python,cpp,firebase,aws,react,nodejs,tensorflow" />
 </div>
 
-### 🎯 Featured Projects
+### 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/MakeEat/frontend">
@@ -66,11 +59,10 @@ const anu = {
   </a>
 </div>
 
-### 🌟 Project Highlights
-
 <details>
-<summary>🍳 MakeEat - AI Recipe Generator</summary>
+<summary>🎯 Project Details</summary>
 
+### MakeEat
 ```javascript
 class AIRecipeGenerator {
     stack = {
@@ -86,11 +78,8 @@ class AIRecipeGenerator {
     };
 }
 ```
-</details>
 
-<details>
-<summary>🌿 Rootin - Smart Plant Care</summary>
-
+### Rootin
 ```javascript
 class SmartPlantCare {
     stack = {
@@ -106,21 +95,44 @@ class SmartPlantCare {
     };
 }
 ```
-</details>
 
-#### 🎯 MajorMatch
-
-class MajorMatch {
-  tech = ["TypeScript", "Node.js"];
-  features = [
-    "Full-stack application",
-    "Career matching algorithm"
-  ];
+### Content Moderation
+```javascript
+class AWSContentMod {
+    stack = {
+        backend: ["Python", "AWS"],
+        services: ["AWS Rekognition"],
+        features: [
+            "🎥 Real-time content filtering",
+            "🔄 Live video stream analysis",
+            "📊 Modern dashboard"
+        ]
+    };
 }
 ```
+</details>
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nukktae&theme=tokyo-night" alt="Activity Graph"/>
-  
-  <img src="https://github.com/nukktae/nukktae/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nukktae&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nukktae&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nukktae&theme=tokyo-night&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/nukktae/nukktae/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+  <br>
+  <br>
+  <a href="mailto:anubilegdemberel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-6AD7F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
