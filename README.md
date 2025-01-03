@@ -55,7 +55,7 @@ const anu = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=2024PBL-AWS-project&repo=ContentModeration&theme=tokyonight" />
   </a>
   <a href="https://github.com/nukktae/MajorMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=MajorMatch&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=MajorMatch&theme=tokyonight&cache_seconds=0" />
   </a>
 </div>
 
