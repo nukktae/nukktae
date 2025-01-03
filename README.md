@@ -96,6 +96,24 @@ class SmartPlantCare {
 }
 ```
 
+### MajorMatch
+```javascript
+class CareerGuidance {
+    stack = {
+        frontend: ["React", "TypeScript"],
+        backend: ["Node.js", "Express"],
+        ai: ["Machine Learning"],
+        features: [
+            "🎯 AI-powered career assessments",
+            "👥 Personalized mentorship matching",
+            "📊 Academic path recommendations",
+            "🔄 Real-time progress tracking",
+            "📱 Modern responsive interface"
+        ]
+    };
+}
+```
+
 ### Content Moderation
 ```javascript
 class AWSContentMod {
