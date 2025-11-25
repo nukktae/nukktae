@@ -43,7 +43,7 @@ const anu = {
 
 <div align="center">
 
-  <!-- Row 1 -->
+  <!-- ClearGuide -->
   <a href="https://github.com/nukktae/clearguide">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=clearguide&theme=tokyonight&show_owner=true"
@@ -52,6 +52,7 @@ const anu = {
     />
   </a>
 
+  <!-- Rootin -->
   <a href="https://github.com/nukktae/rootin">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=rootin&theme=tokyonight"
@@ -60,7 +61,7 @@ const anu = {
     />
   </a>
 
-  <!-- Row 2 -->
+  <!-- ContentModeration (needs correct owner username!) -->
   <a href="https://github.com/2024PBL-AWS-project/ContentModeration">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=2024PBL-AWS-project&repo=ContentModeration&theme=tokyonight"
@@ -69,28 +70,17 @@ const anu = {
     />
   </a>
 
+  <!-- MajorMatch (fixed casing) -->
   <a href="https://github.com/nukktae/MajorMatch">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=MajorMatch&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=majormatch&theme=tokyonight"
       alt="MajorMatch Repo"
-      style="margin: 6px;"
-    />
-  </a>
-
-  <!-- Extra ClearGuide card -->
-  <a href="https://github.com/nukktae/clearguide">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=clearguide&theme=tokyonight"
-      alt="ClearGuide Repo"
       style="margin: 6px;"
     />
   </a>
 
 </div>
 
-
-<details>
-<summary>🎯 Project Details</summary>
 
 ### MakeEat
 ```javascript
