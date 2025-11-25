@@ -42,22 +42,52 @@ const anu = {
 ### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/MakeEat/frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakeEat&repo=frontend&theme=tokyonight&show_owner=true" />
+
+  <!-- Row 1 -->
+  <a href="https://github.com/nukktae/clearguide">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=clearguide&theme=tokyonight&show_owner=true"
+      alt="ClearGuide Repo"
+      style="margin: 6px;"
+    />
   </a>
+
   <a href="https://github.com/nukktae/rootin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=rootin&theme=tokyonight" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=rootin&theme=tokyonight"
+      alt="Rootin Repo"
+      style="margin: 6px;"
+    />
   </a>
+
+  <!-- Row 2 -->
+  <a href="https://github.com/2024PBL-AWS-project/ContentModeration">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=2024PBL-AWS-project&repo=ContentModeration&theme=tokyonight"
+      alt="Content Moderation Repo"
+      style="margin: 6px;"
+    />
+  </a>
+
+  <a href="https://github.com/nukktae/MajorMatch">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=MajorMatch&theme=tokyonight"
+      alt="MajorMatch Repo"
+      style="margin: 6px;"
+    />
+  </a>
+
+  <!-- Extra ClearGuide card -->
+  <a href="https://github.com/nukktae/clearguide">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=clearguide&theme=tokyonight"
+      alt="ClearGuide Repo"
+      style="margin: 6px;"
+    />
+  </a>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/2024PBL-AWS-project/ContentModeration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2024PBL-AWS-project&repo=ContentModeration&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/nukktae/MajorMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nukktae&repo=MajorMatch&theme=tokyonight&cache_seconds=0" />
-  </a>
-</div>
 
 <details>
 <summary>🎯 Project Details</summary>
