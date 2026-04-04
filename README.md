@@ -2,9 +2,9 @@
 
 # Anu Bilegdemberel
 
-**Generative AI · LLM systems · Applied machine learning**
+**AI engineer · Backend-heavy GenAI systems**
 
-Irvine, CA · [anubilegdemberel.com](https://anubilegdemberel.com)
+Seoul, South Korea · [anubilegdemberel.com](https://anubilegdemberel.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://anubilegdemberel.com)
 [![GitHub followers](https://img.shields.io/github/followers/nukktae?label=Follow&style=flat-square&logo=github)](https://github.com/nukktae?tab=followers)
@@ -13,49 +13,47 @@ Irvine, CA · [anubilegdemberel.com](https://anubilegdemberel.com)
 
 ---
 
-I design and ship **production-facing AI**: reliable prompts and tool use, retrieval and context pipelines, evaluation, and the full-stack surfaces that make models usable in real products. I optimize for latency, clear safety boundaries, and measurable quality—not demoware.
+I design and ship **production-facing AI from the server side**: inference and tool-calling paths, retrieval and context assembly, async jobs and queues, observability, and the APIs that keep models reliable under load. I optimize for latency, cost, clear safety boundaries, and measurable quality—not demoware.
 
 ### Focus
 
-- **GenAI and agents** — orchestration, structured outputs, guardrails, human-in-the-loop workflows  
-- **Applied ML and vision** — classification, detection, and moderation-style pipelines where accuracy and cost matter  
-- **Product engineering** — TypeScript and React, Flutter where the product needs mobile, plus APIs, auth, and observability  
+- **GenAI and agents** — orchestration, structured outputs, tool use, guardrails, human-in-the-loop workflows  
+- **Backend for AI** — REST and streaming APIs, auth, rate limits, idempotency, background workers, data access layers  
+- **AWS for AI/ML** — Bedrock for managed foundation models and agents, SageMaker for training, deployment, and pipelines, plus Lambda, S3, OpenSearch, and messaging for production paths  
+- **ML in production** — classification, detection, moderation-style pipelines, and evaluation when accuracy and cost matter  
 
 ### Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+_Languages and runtimes_
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+_Backend and platform_
+
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+_AWS — AI, ML, and cloud_
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat-square&logo=awslambda&logoColor=FF9900)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-232F3E?style=flat-square&logo=amazons3&logoColor=FF9900)
+![Amazon OpenSearch](https://img.shields.io/badge/Amazon%20OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
-_OpenAI and modern LLM APIs · TensorFlow · AWS Rekognition · IoT and real-time data when the use case demands it._
+_OpenSearch for retrieval and RAG-style search · Amazon Rekognition for vision workloads · API Gateway · Step Functions · SQS and SNS for async pipelines · CloudWatch · IAM and VPC patterns for model and data boundaries_
 
-### Selected work
+_AI and data (beyond AWS)_
 
-| Repository | Summary |
-|------------|---------|
-| [**MajorMatch**](https://github.com/nukktae/MajorMatch) | AI-powered career guidance: assessments, mentorship alignment, academic path recommendations. React, Node.js, GPT-4. |
-| [**daker-mn**](https://github.com/nukktae/daker-mn) | Hackathon discovery and team-building for DACON-style events. |
-| [**clearguide**](https://github.com/nukktae/clearguide) | TypeScript app · [clearguide.vercel.app](https://clearguide.vercel.app) |
-| [**careermap**](https://github.com/nukktae/careermap) | Career mapping and planning (TypeScript). |
-| [**trendsgit**](https://github.com/nukktae/trendsgit) | Historical trending repos across platforms · [trendsgit.netlify.app](https://trendsgit.netlify.app) |
-| [**deedpfake-detection**](https://github.com/nukktae/deedpfake-detection) | Media authenticity and detection experiments. |
+_OpenAI and other LLM APIs · RAG and retrieval pipelines · embeddings and vector search · TensorFlow · batch and streaming inference patterns_
 
-<details>
-<summary><strong>Also on GitHub</strong></summary>
-
-[n8n-final](https://github.com/nukktae/n8n-final) · [n8n-hackathon](https://github.com/nukktae/n8n-hackathon) · [kspo-sports-platform](https://github.com/nukktae/kspo-sports-platform) · [kmu-global-campus](https://github.com/nukktae/kmu-global-campus) · [interactive-portfolio-frontend](https://github.com/nukktae/interactive-portfolio-frontend)
-
-</details>
-
-### Upstream and community
-
-Recent contributions and collaboration across **AI security**, **agent runtimes**, **CLI tooling**, and **research-adjacent** projects, including:
-
-[TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) · [usestrix/strix](https://github.com/usestrix/strix) · [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) · [aliasrobotics/cai](https://github.com/aliasrobotics/cai) · [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) · [paperclipai/paperclip](https://github.com/paperclipai/paperclip) · [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) · [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) · [obra/superpowers](https://github.com/obra/superpowers) · [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+Representative work and code samples live in **private repositories**; I’m happy to walk through architecture and outcomes by request. **[Portfolio →](https://anubilegdemberel.com)**
 
 ### Engineering principles
 
@@ -72,7 +70,7 @@ Recent contributions and collaboration across **AI security**, **agent runtimes*
 
 <br />
 
-**Open to roles and collaborations in GenAI, applied ML, and full-stack product engineering.**
+**Open to roles and collaborations in AI engineering, backend-heavy GenAI platforms, and applied ML services.**
 
 [Website](https://anubilegdemberel.com) · [GitHub](https://github.com/nukktae)
 
