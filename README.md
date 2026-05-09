@@ -29,13 +29,19 @@ _Languages and runtimes_
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 _Backend and platform_
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 _AWS — AI, ML, and cloud_
@@ -43,15 +49,32 @@ _AWS — AI, ML, and cloud_
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat-square&logo=awslambda&logoColor=FF9900)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-232F3E?style=flat-square&logo=amazons3&logoColor=FF9900)
 ![Amazon OpenSearch](https://img.shields.io/badge/Amazon%20OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-_OpenSearch for retrieval and RAG-style search · Amazon Rekognition for vision workloads · API Gateway · Step Functions · SQS and SNS for async pipelines · CloudWatch · IAM and VPC patterns for model and data boundaries_
+_OpenSearch for retrieval and RAG-style search · Amazon Rekognition for vision workloads · API Gateway · Step Functions · SQS and SNS for async pipelines · CloudWatch · IAM and VPC patterns for model and data boundaries · Terraform-managed infra in AWS Seoul (`ap-northeast-2`)_
 
-_AI and data (beyond AWS)_
+_AI and ML_
 
-_OpenAI and other LLM APIs · RAG and retrieval pipelines · embeddings and vector search · TensorFlow · batch and streaming inference patterns_
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+_OpenAI and other LLM APIs · RAG and retrieval pipelines · embeddings and vector search · on-device inference (Mamba, ONNX) · batch and streaming inference patterns_
+
+_Mobile and wearables_
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Wear OS](https://img.shields.io/badge/Wear%20OS-4285F4?style=flat-square&logo=wear-os&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 Representative work and code samples live in **private repositories**; I’m happy to walk through architecture and outcomes by request. **[Portfolio →](https://anubilegdemberel.com)**
 
