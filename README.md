@@ -89,18 +89,3 @@ Representative work and code samples live in **private repositories**; I’m hap
 **[Little Signals — Kookmin University 2026 Capstone (Team 18)](https://github.com/kookmin-sw/2026-capstone-18)**
 
 On-device stress detection and menstrual-cycle tracking for women, built on Galaxy Watch 8 (Wear OS) + Flutter, with a FastAPI backend on AWS Seoul (`ap-northeast-2`). Raw biosignals (PPG, HRV, EDA, accelerometer) feed a Mamba inference path on-device; pre-stress states trigger a wrist breathing guide. Designed under Korean PIPA constraints.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nukktae&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true" height="140" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukktae&layout=compact&theme=dark&hide_border=true&langs_count=8" height="140" alt="Top languages" />
-
-<br />
-
-**Open to roles and collaborations in AI engineering, backend-heavy GenAI platforms, and applied ML services.**
-
-[Website](https://anubilegdemberel.com) · [GitHub](https://github.com/nukktae)
-
-</div>
