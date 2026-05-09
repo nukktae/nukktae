@@ -61,6 +61,12 @@ Representative work and code samples live in **private repositories**; I’m hap
 - Prefer **small, composable services** over monolithic AI blobs.  
 - Treat **data boundaries and model interfaces** as first-class design.
 
+### Graduation capstone
+
+**[Little Signals — Kookmin University 2026 Capstone (Team 18)](https://github.com/kookmin-sw/2026-capstone-18)**
+
+On-device stress detection and menstrual-cycle tracking for women, built on Galaxy Watch 8 (Wear OS) + Flutter, with a FastAPI backend on AWS Seoul (`ap-northeast-2`). Raw biosignals (PPG, HRV, EDA, accelerometer) feed a Mamba inference path on-device; pre-stress states trigger a wrist breathing guide. Designed under Korean PIPA constraints.
+
 ---
 
 <div align="center">
