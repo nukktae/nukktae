@@ -20,7 +20,7 @@ I design and ship **production-facing AI from the server side**: inference and t
 - **GenAI and agents** — orchestration, structured outputs, tool use, guardrails, human-in-the-loop workflows  
 - **Backend for AI** — REST and streaming APIs, auth, rate limits, idempotency, background workers, data access layers  
 - **AWS for AI/ML** — Bedrock for managed foundation models and agents, SageMaker for training, deployment, and pipelines, plus Lambda, S3, OpenSearch, and messaging for production paths  
-- **ML in production** — classification, detection, moderation-style pipelines, and evaluation when accuracy and cost matter  
+- **AI instructor** — teaching practical GenAI adoption to **1,800+ enterprise workers**: prompt design, agentic workflows, safe tool use, and embedding LLMs into day-to-day operations  
 
 ### Stack
 
